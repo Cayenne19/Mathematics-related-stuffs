@@ -1,2 +1,2 @@
 # Mathematics-related-stuffs
-Solution to some chosen maths problem in c++
+Solutions in c++ to some chosen maths problems
